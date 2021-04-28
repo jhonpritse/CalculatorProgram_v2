@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Calculatorv2.dir/objects.a
+"D:\Program Files\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\Calculatorv2.dir/objects.a @CMakeFiles\Calculatorv2.dir\objects1.rsp
+"D:\Program Files\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\Calculatorv2.dir/objects.a -Wl,--no-whole-archive  -o Calculatorv2.exe -Wl,--out-implib,libCalculatorv2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calculatorv2.dir\linklibs.rsp

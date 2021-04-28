@@ -1,0 +1,3 @@
+D:/Users/Prietse/Documents/C++ Files/Calculatorv2/cmake-build-debug/CMakeFiles/Calculatorv2.dir
+D:/Users/Prietse/Documents/C++ Files/Calculatorv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Prietse/Documents/C++ Files/Calculatorv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
